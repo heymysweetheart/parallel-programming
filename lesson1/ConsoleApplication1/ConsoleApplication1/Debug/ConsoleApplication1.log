@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+  ConsoleApplication1.vcxproj -> C:\Users\986381\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
